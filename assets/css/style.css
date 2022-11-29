@@ -1,0 +1,344 @@
+.sidebar-heading-s {
+    color: white;
+    padding: 0 1rem;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.icon-sm {font-size: 25px;}
+
+.social-media {
+    display: flex;
+} 
+
+.sm-info {
+    margin-left: 10px;
+}
+
+.title_info {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.content-footer {
+    background: #3d63d2;
+    color: white;
+    margin-top: 30px;
+    position: absolute;
+    width: -webkit-fill-available;
+    bottom: 0;
+    padding: 2rem 0;
+}
+
+.sidebar-bar {
+    background: #3d63d2;
+}
+
+.operasional {
+    width: 210px;
+    margin: auto;
+}
+
+.detail-info {
+    text-align: justify;
+}
+
+@media screen and (max-width : 800px){
+    .info-mdc{
+        text-align: center;
+    }
+}
+
+.banner {
+    margin-bottom: 10px;
+}
+
+.banner-img {
+    border-radius: 10px;
+}
+
+.title-proyektor {
+    margin-top: 30px;
+    background: #3A5DBF;
+    width: fit-content;
+    padding: 5px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 10px 5px 64px 5px;
+}
+
+.banner-proyektor {
+    margin: 20px;
+    width: 20%;
+}
+
+.menu-produk-proyektor {
+    background: #3A5DBF;
+    padding: 10px;
+    display: flex;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+
+.list-produk {
+    margin-bottom: 10px;
+}
+
+.list-menu {}
+
+.list-item {
+    width: 205px;
+    height: 344px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 20px;
+}
+
+.list-produk-proyektor {
+    margin-right: 20px;
+}
+
+.title-laptop {
+    margin-top: 40px;
+    background: #D00935;
+    width: fit-content;
+    padding: 5px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 10px 5px 64px 5px;
+}
+
+.menu-produk-laptop {
+    background: #d00935;
+    padding: 10px;
+    display: flex;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+
+.banner-laptop {
+    margin: 20px;
+    width: 20%;
+}
+
+.list-produk-laptop {
+    margin-right: 20px;
+}
+
+.title-printer {
+    margin-top: 40px;
+    background: #9FCFD9;
+    width: fit-content;
+    padding: 5px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 10px 5px 64px 5px;
+}
+
+.menu-produk-printer {
+    background: #9fcfd9;
+    padding: 10px;
+    display: flex;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+
+.banner-printer {
+    margin: 20px;
+    width: 20%;
+}
+
+.list-produk-printer {
+    margin-right: 20px;
+}
+
+.title-brands {
+    margin-top: 40px;
+    background: #0096D6;
+    width: fit-content;
+    padding: 5px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 10px 5px 64px 5px;
+}
+
+.list-brands {
+    width: 231px;
+    height: 120px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 20px;
+}
+
+.list-menu-brands {
+    background: #0096D6;
+    padding: 10px;
+    display: flex;
+    border-radius: 20px;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.input-service {
+    width: 100%;
+}
+
+.input-text {
+    width: 75%;
+    height: 35px;
+    border-radius: 10px;
+    border: solid 2px #3A5DBF;
+}
+
+.label-input {
+    width: 20%;
+    margin-bottom: 10px;
+    color: #3A5DBF;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*.footer-absolute {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}*/
+
+.tittle-service {
+    margin-bottom: 50px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: #3A5DBF;
+}
+
+.form {
+    width: 80%;
+    margin: auto;
+}
+
+.box-service {
+    
+width: 60%;
+    
+margin: 150px auto;
+}
+
+.input-area {
+    width: 75%;
+    height: 100px;
+    border-radius: 10px;
+    border: solid 2px #3A5DBF;
+}
+
+.input-keluhan {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-logo {
+    font-size: 14px;
+}
+
+a.sidebar-brand.d-flex.align-items-center.justify-content-center.brand-fix {
+    position: fixed;
+    width: inherit;
+    background: #3d63d2;
+    border-bottom: 1px solid;
+}
+
+nav.navbar.navbar-expand.navbar-light.bg-white.topbar.mb-4.static-top.shadow.navbar-fix {position: fixed;z-index: 99;margin: 0 auto;transition: all .3s;width: -webkit-fill-available;}
+
+.divider-menu {
+    margin-top: 70px;
+}
+
+.slider-top {
+    margin-top: 70px;
+}
+.input-texta {
+    width: 80%;
+    height: 35px;
+    border-radius: 10px;
+    border: solid 2px #3A5DBF;
+}
+.input-areaa {
+    width: 80%;
+    height: 100px;
+    border-radius: 10px;
+    border: solid 2px #3A5DBF;
+}
+
+.harga {
+    font-size: 23px;
+    margin-top: 24px;
+    font-weight: bold;
+    color: #00a900;
+}
+
+.flex-bedge {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.kategori {margin-top: 100px;}
+
+.title-kategori {
+    background: #3d63d2;
+    color: white;
+    width: fit-content;
+    padding: 10px;
+    padding-right: 30px;
+    border-radius: 5px 5px 64px 5px;
+}
+
+.navbar-fix {
+    position: fixed;
+}
+
+.margin-bot {
+    margin-bottom: 300px;
+}
+
+.bg-website{
+    background-color: #4D7EFF!important;
+}
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+.keterangan {
+    display: flex;
+    justify-content: space-between;
+}
+
+.invoice-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mdc-invoice {
+    color: #3d63d2;
+    font-weight: bold;
+}
+
+.ttd-total {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-inv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mdc-logo {
+    display: flex;
+    align-items: center;
+}

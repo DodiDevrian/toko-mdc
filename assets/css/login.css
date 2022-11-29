@@ -1,0 +1,110 @@
+a {
+    text-decoration: none;
+  }
+body {
+  background: #EDEEF1;
+  background-repeat: no-repeat;
+}
+label {
+  font-family: "Raleway", sans-serif;
+  font-size: 11pt;
+}
+#forgot-pass {
+  color: #0066CC;
+  font-family: "Raleway", sans-serif;
+  font-size: 10pt;
+  margin-top: 3px;
+  text-align: right;
+}
+#card {
+  background: #fbfbfb;
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  margin: 6rem auto 8.1rem auto;
+  width: 360px;
+}
+#card-content {
+  padding: 12px 44px;
+}
+#card-title {
+  letter-spacing: 4px;
+  font-family: "Raleway", sans-serif;
+  padding-bottom: 23px;
+  padding-top: 13px;
+  text-align: center;
+  color: #3A5DBF;
+}
+.img-profile {
+  width: 80px;
+  position: relative;
+  top: 10px;
+  left: 98px;
+  border-radius: 50%; 
+  }
+#signup {
+  color: #0066CC;
+  font-family: "Raleway", sans-serif;
+  font-size: 10pt;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#signup:hover {
+  color: #02026c;
+}
+
+.submit-btn {
+  background: #3A5DBF;
+  border: none;
+  border-radius: 21px;
+  color: white;
+  font-family: sans-serif;
+  height: 42.3px;
+  margin: auto;
+  margin-top: 50px;
+  transition: 0.25s;
+  width: -webkit-fill-available;
+}
+
+.submit-btn:hover {
+  background: #243973;
+}
+
+.form {
+  align-items: left;
+  display: flex;
+  flex-direction: column;
+}
+.form-border {
+  background: -webkit-linear-gradient(right, #3A5DBF, #0066CC);
+  height: 1px;
+  width: 100%;
+}
+.form-content {
+  background: #fbfbfb;
+  border: none;
+  outline: none;
+  padding-top: 14px;
+}
+#reset-btn {
+  background: #3A5DBF;
+  border: none;
+  border-radius: 21px;
+  cursor: pointer;
+  color: white;
+  font-family: "Raleway SemiBold", sans-serif;
+  height: 42.3px;
+  margin: 0 auto;
+  margin-top: 25px;
+  transition: 0.25s;
+  width: 250px;
+}
+#card-register {
+  background: #fbfbfb;
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  height: 600px;
+  margin: 6rem auto 8.1rem auto;
+  width: 360px;
+}
